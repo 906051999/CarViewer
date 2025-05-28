@@ -29,6 +29,21 @@
 ## MVP版本
 Vue3 +  PlayCanvas
 
+### Project setup
+```
+pnpm install
+```
+
+#### Compiles and hot-reloads for development
+```
+pnpm run serve
+```
+
+#### Compiles and minifies for production
+```
+pnpm run build
+```
+
 ## 拓展规划
 
 ### 业务埋点增量添加
